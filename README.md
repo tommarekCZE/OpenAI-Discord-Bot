@@ -8,7 +8,6 @@ The Bot API contain custom moderation system:
 The Bot API contain output logging system:
   Every request will be in log.txt
   Should look like this:
-  ------------
   Request: Write a random word 
   Respond: 
 
@@ -21,7 +20,6 @@ The Bot API contain output logging system:
   Channel ID: 0
   Server: Discord Best Server
   Server ID: 0
-  ------------------------
   
  To change bot token go to main.py and change values:
   DCtoken = 'Your discord bot token'
