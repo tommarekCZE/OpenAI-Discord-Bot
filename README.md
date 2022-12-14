@@ -9,18 +9,18 @@ The Bot API contain output logging system:
   Every request will be in log.txt
   Should look like this:
   ------------
-  >Request: Write a random word 
-  >Respond: 
+  Request: Write a random word 
+  Respond: 
 
   Frolic
-  >Time: 2022-12-11 12:27:06.123088
-  >Model: text-davinci-003
-  >User: user#0000
-  >User ID: 0
-  >Channel: geral
-  >Channel ID: 0
-  >Server: Discord Best Server
-  >Server ID: 0
+  Time: 2022-12-11 12:27:06.123088
+  Model: text-davinci-003
+  User: user#0000
+  User ID: 0
+  Channel: geral
+  Channel ID: 0
+  Server: Discord Best Server
+  Server ID: 0
   ------------------------
   
  To change bot token go to main.py and change values:
