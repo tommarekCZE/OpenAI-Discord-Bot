@@ -32,6 +32,10 @@ Warning: the inawords.txt contain pre-select inappropriate words
  ㅤThe text request is from line 143 to 148<br />
  ㅤThe image request is from line 179 to 183<br />
  ㅤThe image varriation is from line 213 to 217<br />
+ 
+# Required Libs:<br />
+ ㅤpip install discord<br />
+ ㅤpip install OpenAI<br />
   
  If you have any problems with bot contact me on discrd "tommarek#1245"<br />
  Please credict me in your discord bot if you using my Model
