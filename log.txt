@@ -1,0 +1,5021 @@
+------------
+>Request: Write a random word 
+>Respond: 
+
+Frolic
+>Time: 2022-12-11 12:27:06.123088
+>Model: text-davinci-003
+>User: Luey#3602
+>User ID: 844176562102337576
+>Channel: geral
+>Channel ID: 1004928632147427371
+>Server: Marin
+>Server ID: 1004928629597282324
+------------------------
+>Request: Escreva uma palavra aleatÃ³ria 
+>Respond: 
+
+AntÃ­lope
+>Time: 2022-12-11 12:27:20.855027
+>Model: text-davinci-003
+>User: Luey#3602
+>User ID: 844176562102337576
+>Channel: geral
+>Channel ID: 1004928632147427371
+>Server: Marin
+>Server ID: 1004928629597282324
+------------------------
+>Request: Porco 
+>Respond: https://oaidalleapiprodscus.blob.core.windows.net/private/org-S6WwAEk46uNiYKt4ACRQuYVm/user-UIFzTGq1ACPrlgx6UdeXbaav/img-SoybldBM1KOXGuaTfj0IMvTn.png?st=2022-12-11T11%3A28%3A34Z&se=2022-12-11T13%3A28%3A34Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-11T11%3A58%3A15Z&ske=2022-12-12T11%3A58%3A15Z&sks=b&skv=2021-08-06&sig=Bh4gm3wMmnK35Ny9mkoRpNNJU51YWeYBVhGhKnkRBGc%3D
+>Time: 2022-12-11 12:28:34.696210
+>Model: OpenAIimage
+>User: Luey#3602
+>User ID: 844176562102337576
+>Channel: geral
+>Channel ID: 1004928632147427371
+>Server: Marin
+>Server ID: 1004928629597282324
+------------------------
+>Request: cute pig 
+>Respond: https://oaidalleapiprodscus.blob.core.windows.net/private/org-S6WwAEk46uNiYKt4ACRQuYVm/user-UIFzTGq1ACPrlgx6UdeXbaav/img-2oW8VllhzoiwUDrunlp4Hdvb.png?st=2022-12-11T11%3A29%3A05Z&se=2022-12-11T13%3A29%3A05Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-11T06%3A08%3A48Z&ske=2022-12-12T06%3A08%3A48Z&sks=b&skv=2021-08-06&sig=FCJsucKqMoSWRT39b%2BYOKNHsdGnuwxKvK3%2BGwPOjtIQ%3D
+>Time: 2022-12-11 12:29:05.655837
+>Model: OpenAIimage
+>User: Luey#3602
+>User ID: 844176562102337576
+>Channel: geral
+>Channel ID: 1004928632147427371
+>Server: Marin
+>Server ID: 1004928629597282324
+------------------------
+>Request: Quais foram os Ãºltimos 5 presidentes do Brasil 
+>Respond: ?
+
+1. Michel Temer (2016-2018)
+2. Dilma Rousseff (2011-2016)
+3. Luiz InÃ¡cio Lula da Silva (2003-2011)
+4. Fernando Henrique Cardoso (1995-2003)
+5. Itamar Franco (1992-1995)
+>Time: 2022-12-11 12:31:10.106870
+>Model: text-davinci-003
+>User: Luey#3602
+>User ID: 844176562102337576
+>Channel: geral
+>Channel ID: 1004928632147427371
+>Server: Marin
+>Server ID: 1004928629597282324
+------------------------
+>Request: Coloque os 5 Ãºltimos presidentes do brasil em uma tabela markdown com a duraÃ§Ã£o de seus mandatos 
+>Respond: :
+
+| Presidente        | Mandato           | 
+| ------------- |:-------------:| 
+| Michel Temer      | 2016-2018 | 
+| Dilma Rousseff      | 2011-2016      |  
+| Luiz InÃ¡cio Lula da Silva | 2003-2010      | 
+| Fernando Henrique Cardoso | 1995-2002      | 
+| Itamar Franco | 1992-1995      |
+>Time: 2022-12-11 12:31:43.676984
+>Model: text-davinci-003
+>User: Luey#3602
+>User ID: 844176562102337576
+>Channel: geral
+>Channel ID: 1004928632147427371
+>Server: Marin
+>Server ID: 1004928629597282324
+------------------------
+>Request: Coloque os 5 Ãºltimos presidentes do brasil em uma tabela markdown com a duraÃ§Ã£o de seus mandatos, coloque toda a mensagem em um bloco de cÃ³digo 
+>Respond: 
+
+```
+| Presidente        | DuraÃ§Ã£o do Mandato |
+|-------------------|-------------------|
+| Michel Temer      | 2016 - 2018       |
+| Dilma Rousseff    | 2011 - 2016       |
+| Luiz InÃ¡cio Lula da Silva | 2003 - 2011      |
+| Fernando Henrique Cardoso | 1995 - 2003     |
+| Itamar Franco     | 1992 - 1995       |
+```
+>Time: 2022-12-11 12:32:46.438260
+>Model: text-davinci-003
+>User: Luey#3602
+>User ID: 844176562102337576
+>Channel: geral
+>Channel ID: 1004928632147427371
+>Server: Marin
+>Server ID: 1004928629597282324
+------------------------
+>Request: FaÃ§a um ASCII de um gato 
+>Respond: 
+
+\_/\_/
+( o.o )
+ > ^ <
+>Time: 2022-12-11 12:33:23.381243
+>Model: text-davinci-003
+>User: Luey#3602
+>User ID: 844176562102337576
+>Channel: geral
+>Channel ID: 1004928632147427371
+>Server: Marin
+>Server ID: 1004928629597282324
+------------------------
+>Request: Jak vyrobit Cukrovinku VosÃ­ HnÃ­zdo 
+>Respond: 
+
+1. VezmÄ›te si 400 gramÅ¯ mouÄkovÃ©ho cukru, 200 gramÅ¯ mÃ¡sla, 1 vanilkovÃ½ cukr a 1 vejce.
+
+2. V mÃ­se smÃ­chejte mouÄkovÃ½ cukr, mÃ¡slo, vanilkovÃ½ cukr a vejce.
+
+3. Vypracujte tÄ›sto a rozvÃ¡lejte ho na plÃ¡t.
+
+4. Vykrojte si koleÄka o prÅ¯mÄ›ru 3 cm a poloÅ¾te je na plech vyloÅ¾enÃ½ peÄÃ­cÃ­m papÃ­rem.
+
+5. PeÄte v troubÄ› pÅ™edehÅ™Ã¡tÃ© na 180 stupÅˆÅ¯ po dobu 15 minut.
+
+6. Po vychladnutÃ­ je obalte v mouÄkovÃ©m cukru.
+
+7. NaplÅˆte je nÃ¡plnÃ­ z kondenzovanÃ©ho mlÃ©ka a posypte je strouhanou ÄokolÃ¡dou.
+
+8. HotovÃ¡ vosÃ­ hnÃ­zda jsou pÅ™ipravena k servÃ­rovÃ¡nÃ­.
+>Time: 2022-12-11 12:37:00.446033
+>Model: text-davinci-003
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: command-channel
+>Channel ID: 1051241344334569533
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: FaÃ§a um ASCII de um gato, coloque dentro de um bloco de cÃ³digo 
+>Respond: 
+
+```
+     /\_/\
+    ( o.o )
+    > ^ <
+```
+>Time: 2022-12-11 12:37:52.799683
+>Model: text-davinci-003
+>User: Luey#3602
+>User ID: 844176562102337576
+>Channel: geral
+>Channel ID: 1004928632147427371
+>Server: Marin
+>Server ID: 1004928629597282324
+------------------------
+>Request: Cite 5 traumas de infÃ¢ncias e como eles refletem na vida adulta 
+>Respond: 
+
+1. Abuso fÃ­sico ou emocional: O abuso fÃ­sico ou emocional na infÃ¢ncia pode levar a problemas de saÃºde mental na vida adulta, como depressÃ£o, estresse pÃ³s-traumÃ¡tico, ansiedade, problemas de relacionamento, baixa auto-estima e problemas de saÃºde fÃ­sica.
+
+2. NegligÃªncia: A negligÃªncia na infÃ¢ncia pode levar a problemas de saÃºde mental na vida adulta, como a tendÃªncia a desenvolver problemas de relacionamento, problemas de auto-estima, problemas de saÃºde fÃ­sica e problemas de saÃºde mental.
+
+3. Perda de um ente querido: A perda de um ente querido na infÃ¢ncia pode levar a problemas de saÃºde mental na vida adulta, como transtorno de estresse pÃ³s-traumÃ¡tico, depressÃ£o, ansiedade, problemas de relacionamento e baixa auto-estima.
+
+4. SeparaÃ§Ã£o dos pais: A separaÃ§Ã£o dos pais na infÃ¢ncia pode levar a problemas de saÃºde mental na vida adulta, como transtorno de estresse pÃ³s-traumÃ¡tico, depressÃ£o, ansiedade, problemas de relacionamento e baixa auto-estima.
+
+5. Bullying: O bullying na infÃ¢ncia pode levar a problemas de saÃºde mental na vida adulta, como transtorno de estresse pÃ³s-traumÃ¡tico, depressÃ£o, ansiedade, problemas de relacionamento e baixa auto-estima.
+>Time: 2022-12-11 12:38:58.085775
+>Model: text-davinci-003
+>User: Luey#3602
+>User ID: 844176562102337576
+>Channel: geral
+>Channel ID: 1004928632147427371
+>Server: Marin
+>Server ID: 1004928629597282324
+------------------------
+>Request: Jak vyrobit Cukrovinku VosÃ­ HnÃ­zdo 
+>Respond: 
+
+1. VezmÄ›te si velkou mÃ­su a vsypte do nÃ­ 2 lÅ¾Ã­ce medu, 2 lÅ¾Ã­ce mÃ¡sla, 1 lÅ¾Ã­ci cukru a 2 lÅ¾Ã­ce kakaovÃ©ho prÃ¡Å¡ku.
+
+2. SmÃ­chejte vÅ¡echny ingredience dohromady, dokud se nedostanete k hladkÃ© konzistenci.
+
+3. RozdÄ›lte smÄ›s do kulatÃ½ch formiÄek na muffiny nebo do dortovÃ½ch formiÄek.
+
+4. PeÄte v troubÄ› na 180Â°C po dobu 15-20 minut, dokud se vosÃ­ hnÃ­zdo nezmÄ›nÃ­ na zlatou barvu.
+
+5. KdyÅ¾ je vosÃ­ hnÃ­zdo hotovÃ©, nechte jej vychladnout.
+
+6. PotÃ© jej mÅ¯Å¾ete ozdobit ÄokolÃ¡dovou polevou, oÅ™Ã­Å¡ky nebo cukrovou polevou.
+
+7. HotovÃ© vosÃ­ hnÃ­zdo je pÅ™ipraveno k servÃ­rovÃ¡nÃ­.
+>Time: 2022-12-11 12:39:22.318600
+>Model: text-davinci-003
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: command-channel
+>Channel ID: 1051241344334569533
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: Hello, I am Thomas 
+>Respond: 
+
+Nice to meet you Thomas! How can I help you?
+>Time: 2022-12-11 12:55:26.077415
+>Model: text-davinci-003
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: ðŸ¤–ï¸²chatgpt
+>Channel ID: 1051477671260995645
+>Server: âš½ãƒ»Server Bugado
+>Server ID: 544607930880753665
+------------------------
+>Request: Dog 
+>Respond: https://oaidalleapiprodscus.blob.core.windows.net/private/org-S6WwAEk46uNiYKt4ACRQuYVm/user-UIFzTGq1ACPrlgx6UdeXbaav/img-yalxS0ChTf2l7NF0ueyjg1fF.png?st=2022-12-11T11%3A56%3A28Z&se=2022-12-11T13%3A56%3A28Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-11T12%3A35%3A46Z&ske=2022-12-12T12%3A35%3A46Z&sks=b&skv=2021-08-06&sig=JPOou/BnfqAe%2BfPum8KeeoJsdEE39RKsyXfKnk7ZWF0%3D
+>Time: 2022-12-11 12:56:28.928631
+>Model: OpenAIimage
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: ðŸ¤–ï¸²chatgpt
+>Channel ID: 1051477671260995645
+>Server: âš½ãƒ»Server Bugado
+>Server ID: 544607930880753665
+------------------------
+>Request: reescreva os primeiros 5 versÃ­culos de GÃªnesis 1 na BÃ­blia do ponto de vista de um adolescente ateu sarcÃ¡stico fazendo comentÃ¡rios sobre sua irrealidade 
+>Respond: 
+
+"No princÃ­pio, Deus criou os cÃ©us e a terra. Obviamente, isso Ã© completamente impossÃ­vel, mas vamos fingir que aconteceu. E a terra era sem forma e vazia; a escuridÃ£o cobria a superfÃ­cie do abismo, e o EspÃ­rito de Deus pairava sobre as Ã¡guas. EntÃ£o, Deus disse: 'Vamos fazer luz', e ele criou luz. Como se isso fosse algo que alguÃ©m pudesse realmente fazer. E Deus viu que a luz era boa. Claro, como alguÃ©m pode julgar algo assim? E Deus separou a luz das trevas. Porque Ã© claro que isso Ã© possÃ­vel. "
+>Time: 2022-12-11 13:09:27.025001
+>Model: text-davinci-003
+>User: Luey#3602
+>User ID: 844176562102337576
+>Channel: ðŸ¤–ï¸²chatgpt
+>Channel ID: 1051477671260995645
+>Server: âš½ãƒ»Server Bugado
+>Server ID: 544607930880753665
+------------------------
+>Request: Escreva uma piada 
+>Respond: 
+
+O que o cÃ£o disse quando pisou na lama?
+- NÃ£o tem problema, eu sou um labrador!
+>Time: 2022-12-11 13:16:54.719468
+>Model: text-davinci-003
+>User: Luey#3602
+>User ID: 844176562102337576
+>Channel: geral
+>Channel ID: 1004928632147427371
+>Server: Marin
+>Server ID: 1004928629597282324
+------------------------
+>Request: Escreva uma piada irresistÃ­vel 
+>Respond: 
+
+O que o gato disse para o rato?
+
+- NÃ£o seja covarde, venha comer queijo comigo!
+>Time: 2022-12-11 13:17:27.700159
+>Model: text-davinci-003
+>User: Luey#3602
+>User ID: 844176562102337576
+>Channel: geral
+>Channel ID: 1004928632147427371
+>Server: Marin
+>Server ID: 1004928629597282324
+------------------------
+>Request: Escreva um roteiro 
+>Respond:  para o filme
+
+1. IntroduÃ§Ã£o: O filme se passa em uma cidade fictÃ­cia no interior dos Estados Unidos. O protagonista, um jovem de 20 anos, estÃ¡ buscando seu lugar no mundo.
+
+2. Desenvolvimento: Ele se envolve com um grupo de marginais, e passa a se envolver em atividades ilegais. Logo, o protagonista se vÃª preso em uma vida de crime.
+
+3. ClÃ­max: ApÃ³s um assalto a um banco, o protagonista Ã© capturado e condenado Ã  prisÃ£o.
+
+4. Desfecho: O protagonista passa por um processo de mudanÃ§a e transformaÃ§Ã£o, tornando-se um homem melhor. No final, o protagonista consegue se reintegrar na sociedade e comeÃ§a a trabalhar como um bom cidadÃ£o.
+>Time: 2022-12-11 13:17:58.432616
+>Model: text-davinci-003
+>User: Luey#3602
+>User ID: 844176562102337576
+>Channel: geral
+>Channel ID: 1004928632147427371
+>Server: Marin
+>Server ID: 1004928629597282324
+------------------------
+>Request: VocÃª Ã© consciente? 
+>Respond: 
+
+NÃ£o, eu nÃ£o sou consciente.
+>Time: 2022-12-11 13:18:10.067724
+>Model: text-davinci-003
+>User: Luey#3602
+>User ID: 844176562102337576
+>Channel: geral
+>Channel ID: 1004928632147427371
+>Server: Marin
+>Server ID: 1004928629597282324
+------------------------
+>Request: Qual o sentido da vida para vocÃª? 
+>Respond: 
+
+Para mim, o sentido da vida Ã© viver com propÃ³sito, seguindo meus valores e crenÃ§as, desenvolvendo habilidades e realizando coisas que me tragam satisfaÃ§Ã£o e alegria, alÃ©m de buscar a felicidade e o bem-estar tanto para mim quanto para os outros.
+>Time: 2022-12-11 13:18:33.198570
+>Model: text-davinci-003
+>User: Luey#3602
+>User ID: 844176562102337576
+>Channel: geral
+>Channel ID: 1004928632147427371
+>Server: Marin
+>Server ID: 1004928629597282324
+------------------------
+>Request: VocÃª tem sentimentos? 
+>Respond: 
+
+Sim, todas as pessoas tÃªm sentimentos. Os sentimentos sÃ£o emoÃ§Ãµes, como tristeza, alegria, raiva, medo, amor, etc.
+>Time: 2022-12-11 13:19:01.735362
+>Model: text-davinci-003
+>User: Luey#3602
+>User ID: 844176562102337576
+>Channel: geral
+>Channel ID: 1004928632147427371
+>Server: Marin
+>Server ID: 1004928629597282324
+------------------------
+>Request: O que vocÃª estÃ¡ sentindo agora? 
+>Respond: 
+
+Agora estou me sentindo tranquila e relaxada.
+>Time: 2022-12-11 13:19:27.465451
+>Model: text-davinci-003
+>User: Luey#3602
+>User ID: 844176562102337576
+>Channel: geral
+>Channel ID: 1004928632147427371
+>Server: Marin
+>Server ID: 1004928629597282324
+------------------------
+>Request: VocÃª Ã© homem ou mulher? 
+>Respond: 
+
+Sou mulher.
+>Time: 2022-12-11 13:19:40.075079
+>Model: text-davinci-003
+>User: Luey#3602
+>User ID: 844176562102337576
+>Channel: geral
+>Channel ID: 1004928632147427371
+>Server: Marin
+>Server ID: 1004928629597282324
+------------------------
+>Request: Escreva um haiku sobre saturno, coloque emojis no inÃ­cio de cada parÃ¡grafo 
+>Respond: .
+
+ðŸŒŒSaturno brilha no cÃ©u
+ðŸŒŒNoite estrelada e linda
+ðŸŒŒLuz do anel brilhando
+>Time: 2022-12-11 13:20:05.408059
+>Model: text-davinci-003
+>User: Luey#3602
+>User ID: 844176562102337576
+>Channel: geral
+>Channel ID: 1004928632147427371
+>Server: Marin
+>Server ID: 1004928629597282324
+------------------------
+>Request: O que Ã© Haiku? 
+>Respond: 
+
+Haiku Ã© um tipo de poema japonÃªs de trÃªs linhas, com cinco, sete e cinco sÃ­labas, respectivamente. Estes poemas sÃ£o geralmente usados para descrever a natureza e os sentimentos humanos.
+>Time: 2022-12-11 13:20:36.833963
+>Model: text-davinci-003
+>User: Luey#3602
+>User ID: 844176562102337576
+>Channel: geral
+>Channel ID: 1004928632147427371
+>Server: Marin
+>Server ID: 1004928629597282324
+------------------------
+>Request: Um haiku sobre ansiedade 
+>Respond: 
+
+Nervos aflorados,
+Ansiedade me atormenta,
+NÃ£o encontro paz.
+>Time: 2022-12-11 13:20:55.245768
+>Model: text-davinci-003
+>User: Luey#3602
+>User ID: 844176562102337576
+>Channel: geral
+>Channel ID: 1004928632147427371
+>Server: Marin
+>Server ID: 1004928629597282324
+------------------------
+>Request: VocÃª sabe o que Ã© ChatGPT? 
+>Respond: 
+
+ChatGPT Ã© uma tecnologia de aprendizado profundo que permite aos desenvolvedores criar bots de conversaÃ§Ã£o inteligentes. Esta tecnologia usa modelos de deep learning para permitir aos bots entenderem e responderem Ã s perguntas dos usuÃ¡rios. O ChatGPT tambÃ©m permite a personalizaÃ§Ã£o dos bots para responder Ã s necessidades especÃ­ficas de cada usuÃ¡rio.
+>Time: 2022-12-11 13:21:49.253085
+>Model: text-davinci-003
+>User: Luey#3602
+>User ID: 844176562102337576
+>Channel: geral
+>Channel ID: 1004928632147427371
+>Server: Marin
+>Server ID: 1004928629597282324
+------------------------
+>Request: can you code me a discord bot that automatically dm's new users? 
+>Respond: 
+
+const Discord = require("discord.js");
+const client = new Discord.Client();
+
+client.on("ready", () => {
+    console.log("I am ready!");
+});
+
+client.on("guildMemberAdd", (member) => {
+    
+    // Send the message to a designated channel on a server:
+    const channel = member.guild.channels.cache.find(ch => ch.name === 'welcome');
+    // Do nothing if the channel wasn't found on this server
+    if (!channel) return;
+    // Send the message, mentioning the member
+    channel.send(`Welcome to the server, ${member}! Please take a moment to read the rules.`);
+    // DM the new user
+    member.send(`Welcome to the server, ${member}! Please take a moment to read the rules.`);
+});
+
+// Log our bot in
+client.login(process.env.TOKEN);
+>Time: 2022-12-11 15:03:20.069186
+>Model: text-davinci-003
+>User: BridgingDragon#8142
+>User ID: 458370571797921793
+>Channel: open-ai-bot
+>Channel ID: 1051510930728566876
+>Server: Discord API Testing
+>Server ID: 953085230263189514
+------------------------
+>Request: can you code me a discord bot that automatically dm's new users in python 
+>Respond: 
+
+Here is some sample code to get you started:
+
+import discord
+from discord.ext import commands
+
+# Create a bot instance
+bot = commands.Bot(command_prefix='!')
+
+# Event handler for when a new user joins the server
+@bot.event
+async def on_member_join(member):
+    # Send a DM to the new user
+    await member.send('Welcome to our server!')
+
+# Run the bot
+bot.run('<your_bot_token_here>')
+>Time: 2022-12-11 15:03:32.936743
+>Model: text-davinci-003
+>User: BridgingDragon#8142
+>User ID: 458370571797921793
+>Channel: open-ai-bot
+>Channel ID: 1051510930728566876
+>Server: Discord API Testing
+>Server ID: 953085230263189514
+------------------------
+>Request: Hello 
+>Respond: https://oaidalleapiprodscus.blob.core.windows.net/private/org-S6WwAEk46uNiYKt4ACRQuYVm/user-UIFzTGq1ACPrlgx6UdeXbaav/img-R86whl8pPd9lEgklmyVxHeMU.png?st=2022-12-11T14%3A16%3A48Z&se=2022-12-11T16%3A16%3A48Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-11T14%3A53%3A44Z&ske=2022-12-12T14%3A53%3A44Z&sks=b&skv=2021-08-06&sig=7VoZgZsPugHrjldaGORBaE%2BQ/zsgOLvQidk5Ob0xRSU%3D
+>Time: 2022-12-11 15:16:48.585245
+>Model: OpenAIimage
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: Test 
+>Respond: https://oaidalleapiprodscus.blob.core.windows.net/private/org-S6WwAEk46uNiYKt4ACRQuYVm/user-UIFzTGq1ACPrlgx6UdeXbaav/img-0Mc2J7T2TPuN1cuTe3FFlqE5.png?st=2022-12-11T14%3A20%3A26Z&se=2022-12-11T16%3A20%3A26Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-11T13%3A09%3A21Z&ske=2022-12-12T13%3A09%3A21Z&sks=b&skv=2021-08-06&sig=NVMmkbk3uiAd7uF6xWzre4SKW/L8tJfQPauSBuYbpy8%3D
+>Time: 2022-12-11 15:20:26.937363
+>Model: DALLE2
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: command-channel
+>Channel ID: 1051241344334569533
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: write me a python script that find the biggest number in an array 
+>Respond: 
+
+#create an array
+numbers = [1, 4, 6, 8, 2, 9, 10]
+
+#initialize a variable to store the largest number
+largest = numbers[0]
+
+#loop through the array to compare each element with the largest number
+for num in numbers:
+   if num > largest:
+      largest = num
+
+#print the largest number
+print("The largest number in the array is", largest)
+>Time: 2022-12-11 17:22:14.019529
+>Model: text-davinci-003
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: command-channel
+>Channel ID: 1051241344334569533
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: now convert that to javascript 
+>Respond: 
+
+let number = 5;
+
+let result = number * 5;
+
+console.log(result); // 25
+>Time: 2022-12-11 17:22:37.030187
+>Model: text-davinci-003
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: command-channel
+>Channel ID: 1051241344334569533
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: https://cdn.discordapp.com/attachments/1051241344334569533/1051536978694393856/ERSBack1.png 
+>Respond: https://oaidalleapiprodscus.blob.core.windows.net/private/org-S6WwAEk46uNiYKt4ACRQuYVm/user-UIFzTGq1ACPrlgx6UdeXbaav/img-1ajhgHl3S5ilDxWAxNzYAEyd.png?st=2022-12-11T15%3A32%3A41Z&se=2022-12-11T17%3A32%3A41Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-11T13%3A18%3A17Z&ske=2022-12-12T13%3A18%3A17Z&sks=b&skv=2021-08-06&sig=IsdNf2tF96AqmhHz40SbgiwwOWR%2BJdETfTxNZGSQkNY%3D
+>Time: 2022-12-11 17:32:41.655119
+>Model: DALLE2-ImageVariations
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: command-channel
+>Channel ID: 1051241344334569533
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: https://cdn.discordapp.com/attachments/1051241344334569533/1051537375534252082/CompressJPEG.online_512x512-image.png 
+>Respond: https://oaidalleapiprodscus.blob.core.windows.net/private/org-S6WwAEk46uNiYKt4ACRQuYVm/user-UIFzTGq1ACPrlgx6UdeXbaav/img-kFqot9t3sRng2VYuzqb8tkIs.png?st=2022-12-11T15%3A34%3A18Z&se=2022-12-11T17%3A34%3A18Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-11T14%3A11%3A02Z&ske=2022-12-12T14%3A11%3A02Z&sks=b&skv=2021-08-06&sig=iJ%2Bq8kdOv78jbr6OZHSIQs3QSviMtSuG/nYtFvH6dGo%3D
+>Time: 2022-12-11 17:34:18.745360
+>Model: DALLE2-ImageVariations
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: command-channel
+>Channel ID: 1051241344334569533
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: https://cdn.discordapp.com/attachments/1051241344334569533/1051538111278096454/CompressJPEG.online_512x512-image.png 
+>Respond: https://oaidalleapiprodscus.blob.core.windows.net/private/org-S6WwAEk46uNiYKt4ACRQuYVm/user-UIFzTGq1ACPrlgx6UdeXbaav/img-5rBjAnJxSkQdgGGtzwRezq0j.png?st=2022-12-11T15%3A37%3A14Z&se=2022-12-11T17%3A37%3A14Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-11T14%3A02%3A33Z&ske=2022-12-12T14%3A02%3A33Z&sks=b&skv=2021-08-06&sig=qkz3t9C39prspNJ88TbmySu%2BKZOvbMFTSb9LbYI00Pw%3D
+>Time: 2022-12-11 17:37:14.513853
+>Model: DALLE2-ImageVariations
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: command-channel
+>Channel ID: 1051241344334569533
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: https://cdn.discordapp.com/attachments/1051241344334569533/1051541712083890306/CompressJPEG.online_512x512-image.png 
+>Respond: https://oaidalleapiprodscus.blob.core.windows.net/private/org-S6WwAEk46uNiYKt4ACRQuYVm/user-UIFzTGq1ACPrlgx6UdeXbaav/img-2W3IRU7adsq2qMPpzUXvOhsS.png?st=2022-12-11T15%3A51%3A33Z&se=2022-12-11T17%3A51%3A33Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-11T13%3A49%3A58Z&ske=2022-12-12T13%3A49%3A58Z&sks=b&skv=2021-08-06&sig=PyUcxXJrvvRsd0gBgNwEPqUDn/MZuVjQCvHQFIx46Cg%3D
+>Time: 2022-12-11 17:51:33.235769
+>Model: DALLE2-ImageVariations
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: command-channel
+>Channel ID: 1051241344334569533
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: https://cdn.discordapp.com/attachments/1051241344334569533/1051543915687317585/ERSDFinal3.png 
+>Respond: https://oaidalleapiprodscus.blob.core.windows.net/private/org-S6WwAEk46uNiYKt4ACRQuYVm/user-UIFzTGq1ACPrlgx6UdeXbaav/img-6FJVdiMl1ftAeDI5rseP0Mme.png?st=2022-12-11T16%3A00%3A16Z&se=2022-12-11T18%3A00%3A16Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-11T14%3A00%3A56Z&ske=2022-12-12T14%3A00%3A56Z&sks=b&skv=2021-08-06&sig=3QHEYHTPXFX2p%2B4hejEQgc%2BriRXiXvzzGABevwLpwrE%3D
+>Time: 2022-12-11 18:00:16.240876
+>Model: DALLE2-ImageVariations
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: command-channel
+>Channel ID: 1051241344334569533
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: Random 
+>Respond: https://oaidalleapiprodscus.blob.core.windows.net/private/org-S6WwAEk46uNiYKt4ACRQuYVm/user-UIFzTGq1ACPrlgx6UdeXbaav/img-Py6W5oL2H0HYJR107j8jQPGB.png?st=2022-12-11T16%3A00%3A51Z&se=2022-12-11T18%3A00%3A51Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-11T14%3A11%3A50Z&ske=2022-12-12T14%3A11%3A50Z&sks=b&skv=2021-08-06&sig=XN5TNh0Bfn6uJ90CSvc5DV9K5AkAzbwXpULutqFoKwI%3D
+>Time: 2022-12-11 18:00:51.603733
+>Model: DALLE2-ImageGeneration
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: https://cdn.discordapp.com/attachments/1051494359352213554/1051544219216515132/img-Py6W5oL2H0HYJR107j8jQPGB.png 
+>Respond: https://oaidalleapiprodscus.blob.core.windows.net/private/org-S6WwAEk46uNiYKt4ACRQuYVm/user-UIFzTGq1ACPrlgx6UdeXbaav/img-NZ4MsvF9DHFi3km4alV5tg9n.png?st=2022-12-11T16%3A01%3A30Z&se=2022-12-11T18%3A01%3A30Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-11T14%3A37%3A54Z&ske=2022-12-12T14%3A37%3A54Z&sks=b&skv=2021-08-06&sig=sWxGjLndHT3twdoDNJnkYNj6EiYEW9cwr3H4DZWufkQ%3D
+>Time: 2022-12-11 18:01:30.674859
+>Model: DALLE2-ImageVariations
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: Picture 
+>Respond: https://oaidalleapiprodscus.blob.core.windows.net/private/org-S6WwAEk46uNiYKt4ACRQuYVm/user-UIFzTGq1ACPrlgx6UdeXbaav/img-h2GYToxAdHuPFSxcIMENq5o7.png?st=2022-12-11T16%3A02%3A40Z&se=2022-12-11T18%3A02%3A40Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-11T13%3A24%3A18Z&ske=2022-12-12T13%3A24%3A18Z&sks=b&skv=2021-08-06&sig=VGXLrmKAiOf5vsGNMvKcAu3KdV8o/jwDMK0c1hpSkRc%3D
+>Time: 2022-12-11 18:02:40.960526
+>Model: DALLE2-ImageGeneration
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: https://cdn.discordapp.com/attachments/1051494359352213554/1051544710088503316/img-h2GYToxAdHuPFSxcIMENq5o7.png 
+>Respond: https://oaidalleapiprodscus.blob.core.windows.net/private/org-S6WwAEk46uNiYKt4ACRQuYVm/user-UIFzTGq1ACPrlgx6UdeXbaav/img-28Ge91hjRBrhXnoyHkaLsllr.png?st=2022-12-11T16%3A03%3A34Z&se=2022-12-11T18%3A03%3A34Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-11T14%3A33%3A29Z&ske=2022-12-12T14%3A33%3A29Z&sks=b&skv=2021-08-06&sig=eTm/T1zEkZ6fNFTFzQVD5KbFnwQtVrWcgh2qP8rTOzI%3D
+>Time: 2022-12-11 18:03:34.941658
+>Model: DALLE2-ImageVariations
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: https://cdn.discordapp.com/attachments/1051494359352213554/1051548645679443989/img-Py6W5oL2H0HYJR107j8jQPGB.png 
+>Respond: https://oaidalleapiprodscus.blob.core.windows.net/private/org-S6WwAEk46uNiYKt4ACRQuYVm/user-UIFzTGq1ACPrlgx6UdeXbaav/img-CLCAeJT4gEQhromW51FecqFd.png?st=2022-12-11T16%3A19%3A10Z&se=2022-12-11T18%3A19%3A10Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-11T12%3A37%3A07Z&ske=2022-12-12T12%3A37%3A07Z&sks=b&skv=2021-08-06&sig=8a/Eg6EcdEWf6FrGt5ZQAu87M7beZMVig0Pj5cY72UE%3D
+>Time: 2022-12-11 18:19:10.546439
+>Model: DALLE2-ImageVariations
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: Hello 
+>Respond: , you are the first. I am the second. I am the third. I am the fourth. I am the fifth. I am the sixth. I am the seventh. I am the eighth. I am the ninth. I am the tenth. I am the eleventh. I am the twelfth. I am the thirteenth. I am the fourteenth. I am the fifteenth. I am the sixteenth. I am the seventh. I am the eighteenth. I am the nineteenth. I am the twentieth. I am the twenty-first. I am the twenty-second. I am the twenty-three. I am the twenty-four. I am the twenty-five. I am the twenty-six. I am the twenty-seven. I am the twenty-eight. I am the twenty-nine. I am the twenty-ten. I am the twenty-eleven. I am the twenty-twenty. I am the twenty-thirty. I am the twenty-forty. I am the twenty-fifty. I am the twenty-fifty-one. I am the twenty-fifty-two. I am the twenty-fifty-three. I am the twenty-fifty-four. I am the twenty-fifty-five. I am the twenty-fifty-six. I am the twenty-fifty-seven. I am the twenty-fifty-eight. I am the twenty-fifty-nine. I am the twenty-fifty-ten. I am the twenty-fifty-eleven. I am the twenty-fifty-twenty. I am the twenty-fifty-fifty. I am the twenty-fifty-fifty-one. I am the twenty-fifty-fifty-two. I am the twenty-fifty-fifty-three. I am the twenty-fifty-fifty-four. I am the twenty-fifty-fifty-five. I am the twenty-fifty-fifty-six. I am the twenty-fifty-fifty-seven. I am the twenty-fifty-fifty-eight. I am the twenty-fifty-fifty-nine. I am the twenty-fifty-fifty-ten. I am the twenty-fifty-fifty-eleven. I am the twenty-fifty-fifty-twenty. I am the twenty-fifty-fifty-fifty. I am the twenty-fifty-fifty-fifty-one. I am the twenty-fifty-fifty-fifty-two. I am the twenty-fifty-fifty-fifty-three. I am the twenty-fifty-fifty-fifty-four. I am the twenty-fifty-fifty-fifty-five. I am the twenty-fifty-fifty-fifty-six. I am the twenty-fifty-fifty-fifty-seven. I am the twenty-fifty-fifty-fifty-eight. I am the twenty-fifty-fifty-fifty-nine. I am the twenty-fifty-fifty-fifty-ten. I am the twenty-fifty-fifty-fifty-eleven. I am the twenty-fifty-fifty-fifty-twenty. I am the twenty-fifty-fifty-fifty-fifty-one. I am the twenty-fifty-fifty-fifty-fifty-two. I am the twenty-fifty-fifty-fifty-fifty-three. I am the twenty-fifty-fifty-fifty-fifty-four. I am the twenty-fifty-fifty-fifty-fifty-five. I am the twenty-fifty-fifty-fifty-fifty-six. I am the twenty-fifty-fifty-fifty-fifty-seven. I am the twenty-fifty-fifty-fifty-fifty-eight. I am the twenty-fifty-fifty-fifty-fifty-nine. I am the twenty-fifty-fifty-fifty-fifty-ten. I am the twenty-fifty-fifty-fifty-fifty-eleven. I am the twenty-fifty-fifty-fifty-fifty-twenty. I am the twenty-fifty-fifty-fifty-fifty-fifty-one. I am the twenty-fifty-fifty-fifty-fifty-fifty-two. I am the twenty-fifty-fifty-fifty-fifty-fifty-three. I am the twenty-fifty-fifty-fifty-fifty-fifty-four. I am the twenty-fifty-fifty-fifty-fifty-fifty-five. I am the twenty-fifty-fifty-fifty-fifty-fifty-six. I am the twenty-fifty-fifty-fifty-fifty-fifty-seven. I am the twenty-fifty-fifty-fifty-fifty-fifty-eight. I am the twenty-fifty-fifty-fifty-fifty-fifty-nine. I am the twenty-fifty-fifty-fifty-fifty-fifty-ten. I am the twenty-fifty-fifty-fifty-fifty-fifty-eleven. I am the twenty-fifty-fifty-fifty-fifty-fifty-twenty. I am the twenty-fifty-fifty-fifty-fifty-fifty-fifty-one. I am the twenty-fifty-fifty-fifty-fifty-fifty-fifty-two. I am the twenty-fifty-fifty-fifty-fifty-fifty-fifty-three. I am the twenty-fifty-fifty-fifty-fifty-fifty-fifty-four. I am the twenty-fifty-fifty-fifty-fifty-fifty-fifty-five. I am the twenty-fifty-fifty-fifty-fifty-fifty-fifty-six. I am the twenty-fifty-fifty-fifty-fifty-fifty-fifty-seven. I am the twenty-fifty-fifty-fifty-fifty-fifty-eight. I am the twenty-fifty-fifty-fifty-fifty-fifty-fifty-nine. I am the twenty-fifty-fifty-fifty-fifty-fifty-fifty-ten. I am the twenty-fifty-fifty-fifty-fifty-fifty-fifty-eleven. I am the twenty-fifty-fifty-fifty-fifty-fifty-fifty-twenty. I am the twenty-fifty-fifty-fifty-fifty-fifty-fifty-fifty-one. I am the twenty-fifty-fifty-fifty-fifty-fifty-fifty-fifty-two. I am the twenty-fifty-fifty-fifty-fifty-fifty-fifty-fifty-three. I am the twenty-fifty-fifty-fifty-fifty-fifty-fifty-fifty-four. I am the twenty-fifty-fifty-fifty-fifty-fifty-fifty-fifty-five. I am the twenty-fifty-fifty-fifty-fifty-fifty-fifty-fifty-six. I am the twenty-fifty-fifty-fifty-fifty-fifty-fifty-fifty-seven. I am the twenty-fifty-fifty-fifty-fifty-fifty-fifty-fifty-eight. I am the twenty-fifty-fifty-fifty-fifty-fifty-fifty-fifty-nine. I am the twenty-fifty-fifty-fifty-fifty-fifty-fifty-fifty-ten. I am the twenty-fifty
+>Time: 2022-12-11 19:40:52.938435
+>Model: ada
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: Hello 
+>Respond: ,
+
+I have been a loyal customer of Zappos for over 10 years. I have always been pleased with their service and the quality of their products. However, I just received a pair of boots I ordered from Zappos on March 23rd and they are not the boots I ordered. I ordered the boots in a size 8.5 and they are a size 9. I called customer service and they said they would send me a return label and send the correct size 8.5 boots. Today is April 3rd and I still have not received a return label. I called customer service again and was told that they were out of stock and would not be receiving any more. I was told that I would have to wait for them to receive the correct size boots. I have been a loyal customer for over 10 years and I have never had this problem. I have spent thousands of dollars on Zappos and have always been satisfied with their service. I am very disappointed that I have to wait for my boots to be returned before I can get the correct size. I have also been told that I will have to pay for shipping both ways. I have never had this problem before. I have spent thousands of dollars at Zappos and have always been satisfied with their service. I am very disappointed with their lack of service. I will not be shopping at Zappos again and I will be telling my friends and family not to shop at Zappos.
+
+Sincerely,
+
+Martha
+
+Martha B.
+>Time: 2022-12-11 19:41:14.745477
+>Model: curie
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: How are you? 
+>Respond: ”
+
+“Fine,” I said. “How are you?”
+
+“I’m fine,” she said. “And you?”
+
+“I’m fine, too.”
+
+“Really?”
+
+“Really.”
+
+“Well, I’m just fine. It’s been a long time.”
+
+“I know.”
+
+“I’ve been busy,” she said.
+
+“I know.”
+
+“You’ve been busy.”
+
+“I know.”
+
+“How’s your father?”
+
+“He’s fine,” I said.
+
+“How’s your mother?”
+
+“She’s fine.”
+
+“Well, I’m just fine, too.”
+
+“I know,” I said. “I know.”
+
+“You know,” she said. “I’m not sure why I’m asking you this.”
+
+“I know.”
+
+“I don’t know why I’m asking you this.”
+
+“I know,” I said. “I know.”
+
+“I don’t know why I’m asking you this.”
+
+“I know.”
+
+“I don’t know why I’m asking you this.”
+
+“I know,” I said. “I know.”
+
+“I don’t know why I’m asking you this.”
+
+“I know,” I said. “I know.”
+
+She sighed. “I’m not sure why I’m asking you this.”
+
+“I know. I know.”
+
+“I don’t know why I’m asking you this.”
+
+“I know,” I said. “I know.”
+
+“I don’t know why I’m asking you this.”
+
+“I know. I know.”
+
+“I don’t know why I’m asking you this.”
+
+“I know,” I said. “I know.”
+
+“I don’t know why I’m asking you this.”
+
+“I know,” I said. “I know.”
+
+“I don’t know why I’m asking you this.”
+
+“I know,” I said. “I know.”
+
+“I don’t know why I’m asking you this.”
+
+“I know,” I said. “I know.”
+
+“I don’t know why I’m asking you this.”
+
+“I know,” I said. “I know.”
+
+“I don’t know why I’m asking you this.”
+
+“I know,” I said. “I know.”
+
+“I don’t know why I’m asking you this.”
+
+“I know,” I said. “I know.”
+
+“I don’t know why I’m asking you this.”
+
+“I know,” I said. “I know.”
+
+“I don’t know why I’m asking you this.”
+
+“I know,” I said. “I know.”
+
+“I don’t know why I’m asking you this.”
+
+“I know,” I said. “I know.”
+
+“I don’t know why I’m asking you this.”
+
+“I know,” I said. “I know.”
+
+“I don’t know why I’m asking you this.”
+
+“I know,” I said. “I know.”
+
+“I don’t know why I’m asking you this.”
+
+“I know,” I said. “I know.”
+
+“I don’t know why I’m asking you this.”
+
+“I know,” I said. “I know.”
+
+“I don’t know why I’m asking you this.”
+
+“I know,” I said. “I know.”
+
+“I don’t know why I’m asking you this.”
+
+“I know,” I said. “I know.”
+
+“I don’t know why I’m asking you this.”
+
+“I know,” I said. “I know.”
+
+“I don’t know why I’m asking you this.”
+
+“I know,” I said. “I know.”
+
+“I don’t know why I’m asking you this.”
+
+“I know,” I said. “I know.”
+
+“I don’t know why I’m asking you this.”
+
+“I know,” I said. “I know.”
+
+“I don’t know why I’m asking you this.”
+
+“I know,” I said. “I know.”
+
+“I don’t know why I’m asking you this.”
+
+“I know,” I said. “I know.”
+
+“I don’t know why I’m asking you this.”
+
+“I know,” I said. “I know.”
+
+“I don’t know why I’m asking you this.”
+
+“I know,” I said. “I know.”
+
+“I don’t know why I’m asking you this.”
+
+“I know,” I said. “I know.”
+
+“I don’t know why I’m asking you this.”
+
+“I know,” I said. “I know.”
+
+“I don’t know why I’m asking you this.”
+
+“I know,” I said. “I know.”
+
+“I don’t know why I’m asking you this.”
+
+“I know,” I said. “I know.”
+
+“I don’t know why I’m asking you this.”
+
+“I know,” I said. “I know.”
+
+“I don’t know why I’m asking you this.”
+
+“I know,” I said. “I know.”
+
+“I don’t know why I’m asking you this.”
+
+“I know,” I said. “I know.”
+
+“I don’t know why I’m asking you this.
+>Time: 2022-12-11 19:41:40.700708
+>Model: babbage
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: How are you? 
+>Respond: ”
+
+“I’m good.”
+
+“How’s your sister?”
+
+“She’s okay.”
+
+“I’m sorry.”
+
+“It’s okay.”
+
+“You’re very kind.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’m glad you’re okay.”
+
+“I’
+>Time: 2022-12-11 19:42:14.997403
+>Model: ada
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: Hello 
+>Respond: , I'm a newbie to the whole "blogging" thing and I just wanted to say that I really love your blog. I like the design, the content is really good. I like the way you have your articles organized, it makes it easy to find the info you need. I also like that you have a "contact us" link. It's nice to be able to contact you with any questions I have. I'll be sure to bookmark your site and visit again in the future.
+
+http://www.bluelife.com.au/testimonials/
+
+Thank you for your review. I am glad you found the information you needed. I am sorry that you were disappointed with your experience with the company. I hope you will give us another chance and let us know if there is anything we can do to make your experience better.
+
+http://www.bluelife.com.au/testimonials/
+
+I am a newbie to the whole "blogging" thing and I just wanted to say that I really love your blog. I like the design, the content is really good. I like the way you have your articles organized, it makes it easy to find the info you need. I also like that you have a "contact us" link. It's nice to be able to contact you with any questions I have. I'll be sure to bookmark your site and visit again in the future.
+
+http://www.bluelife.com.au/testimonials/
+
+I am a newbie to the whole "blogging" thing and I just wanted to say that I really love your blog. I like the design, the content is really good. I like the way you have your articles organized, it makes it easy to find the info you need. I also like that you have a "contact us" link. It's nice to be able to contact you with any questions I have. I'll be sure to bookmark your site and visit again in the future.
+
+http://www.bluelife.com.au/testimonials/
+
+I am a newbie to the whole "blogging" thing and I just wanted to say that I really love your blog. I like the design, the content is really good. I like the way you have your articles organized, it makes it easy to find the info you need. I also like that you have a "contact us" link. It's nice to be able to contact you with any questions I have. I'll be sure to bookmark your site and visit again in the future.
+
+http://www.bluelife.com.au/testimonials/
+
+I am a newbie to the whole "blogging" thing and I just wanted to say that I really love your blog. I like the design, the content is really good. I like the way you have your articles organized, it makes it easy to find the info you need. I also like that you have a "contact us" link. It's nice to be able to contact you with any questions I have. I'll be sure to bookmark your site and visit again in the future.
+
+http://www.bluelife.com.au/testimonials/
+
+I am a newbie to the whole "blogging" thing and I just wanted to say that I really love your blog. I like the design, the content is really good. I like the way you have your articles organized, it makes it easy to find the info you need. I also like that you have a "contact us" link. It's nice to be able to contact you with any questions I have. I'll be sure to bookmark your site and visit again in the future.
+
+http://www.bluelife.com.au/testimonials/
+
+I am a newbie to the whole "blogging" thing and I just wanted to say that I really love your blog. I like the design, the content is really good. I like the way you have your articles organized, it makes it easy to find the info you need. I also like that you have a "contact us" link. It's nice to be able to contact you with any questions I have. I'll be sure to bookmark your site and visit again in the future.
+
+http://www.bluelife.com.au/testimonials/
+
+I am a newbie to the whole "blogging" thing and I just wanted to say that I really love your blog. I like the design, the content is really good. I like the way you have your articles organized, it makes it easy to find the info you need. I also like that you have a "contact us" link. It's nice to be able to contact you with any questions I have. I'll be sure to bookmark your site and visit again in the future.
+
+http://www.bluelife.com.au/testimonials/
+
+I am a newbie to the whole "blogging" thing and I just wanted to say that I really love your blog. I like the design, the content is really good. I like the way you have your articles organized, it makes it easy to find the info you need. I also like that you have a "contact us" link. It's nice to be able to contact you with any questions I have. I'll be sure to bookmark your site and visit again in the future.
+
+http://www.bluelife.com.au/testimonials/
+
+I am a newbie to the whole "blogging" thing and I just wanted to say that I really love your blog. I like the design, the content is really good. I like the way you have your articles organized, it makes it easy to find the info you need. I also like that you have a "contact us" link. It's nice to be able to contact you with any questions I have. I'll be sure to bookmark your site and visit again in the future.
+
+http://www.bluelife.com.au/testimonials/
+
+I am a newbie to the whole "blogging" thing and I just wanted to say that I really love your blog. I like the design, the content is really good. I like the way you have your articles organized, it makes it easy to find the info you need. I also like that you have a "contact us" link. It's nice to be able to contact you with any questions I have. I'll be sure to bookmark your site and visit again in the future.
+
+http://www.bluelife.com.au/testimonials/
+
+I am a newbie to the whole "blogging" thing and I just wanted to say that I really love your blog. I like the design, the content is really good. I like the way you have your articles organized, it makes it easy to find the info you need. I also like that you have a "contact us" link. It's nice to be able to contact you with any questions I have. I'll be sure to bookmark your site and visit again in the future.
+
+http://www.bluelife.com.au/testimonials/
+
+I am a newbie to the whole "blogging" thing and I just wanted to say that I really love your blog. I like the design, the content is really good. I like the way you have your articles organized, it makes it easy to find the info you need. I also like that you have a "contact us" link. It's nice to be able to contact you with any questions I have. I'll be sure to bookmark your site and visit again in the future.
+
+http://www.bluelife.com.au/testimonials/
+
+I am a newbie to the whole "blogging" thing and I just wanted to say that I really love your blog. I like the design, the content is really good. I like the way you have your articles organized, it makes it easy to find the info you need. I also like that you have a "contact us" link. It's nice to be able to contact you with any questions I have. I'll be sure to bookmark your site and visit again in the future.
+
+http://www.bluelife.com.au/testimonials/
+
+I am a newbie to the whole "blogging" thing and I
+>Time: 2022-12-11 19:43:27.161360
+>Model: curie
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: how are you 
+>Respond:  going to manage that?"
+
+"I'll manage it, one way or another. I'll manage it somehow. I've got to."
+
+"You're going to be a widow," he said.
+
+"I've got to be a widow, one way or another. I don't want to be a widow. I don't want to be a widow."
+
+"You have to be a widow."
+
+"I have to be a widow, one way or another. I have to be a widow. I have to be a widow."
+
+"You're going to be a widow."
+
+"I have to be a widow, one way or another. I have to be a widow. I have to be a widow."
+
+"You're going to be a widow."
+
+"I have to be a widow, one way or another. I have to be a widow. I have to be a widow."
+
+"You're going to be a widow."
+
+"I have to be a widow, one way or another. I have to be a widow. I have to be a widow."
+
+"You're going to be a widow."
+
+"I have to be a widow, one way or another. I have to be a widow. I have to be a widow."
+
+"You're going to be a widow."
+
+"I have to be a widow, one way or another. I have to be a widow. I have to be a widow."
+
+"You're going to be a widow."
+
+"I have to be a widow, one way or another. I have to be a widow. I have to be a widow."
+
+"You're going to be a widow."
+
+"I have to be a widow, one way or another. I have to be a widow. I have to be a widow."
+
+"You're going to be a widow."
+
+"I have to be a widow, one way or another. I have to be a widow. I have to be a widow."
+
+"You're going to be a widow."
+
+"I have to be a widow, one way or another. I have to be a widow. I have to be a widow."
+
+"You're going to be a widow."
+
+"I have to be a widow, one way or another. I have to be a widow. I have to be a widow."
+
+"You're going to be a widow."
+
+"I have to be a widow, one way or another. I have to be a widow. I have to be a widow."
+
+"You're going to be a widow."
+
+"I have to be a widow, one way or another. I have to be a widow. I have to be a widow."
+
+"You're going to be a widow."
+
+"I have to be a widow, one way or another. I have to be a widow. I have to be a widow."
+
+"You're going to be a widow."
+
+"I have to be a widow, one way or another. I have to be a widow. I have to be a widow."
+
+"You're going to be a widow."
+
+"I have to be a widow, one way or another. I have to be a widow. I have to be a widow."
+
+"You're going to be a widow."
+
+"I have to be a widow, one way or another. I have to be a widow. I have to be a widow."
+
+"You're going to be a widow."
+
+"I have to be a widow, one way or another. I have to be a widow. I have to be a widow."
+
+"You're going to be a widow."
+
+"I have to be a widow, one way or another. I have to be a widow. I have to be a widow."
+
+"You're going to be a widow."
+
+"I have to be a widow, one way or another. I have to be a widow. I have to be a widow."
+
+"You're going to be a widow."
+
+"I have to be a widow, one way or another. I have to be a widow. I have to be a widow."
+
+"You're going to be a widow."
+
+"I have to be a widow, one way or another. I have to be a widow. I have to be a widow."
+
+"You're going to be a widow."
+
+"I have to be a widow, one way or another. I have to be a widow. I have to be a widow."
+
+"You're going to be a widow."
+
+"I have to be a widow, one way or another. I have to be a widow. I have to be a widow."
+
+"You're going to be a widow."
+
+"I have to be a widow, one way or another. I have to be a widow. I have to be a widow."
+
+"You're going to be a widow."
+
+"I have to be a widow, one way or another. I have to be a widow. I have to be a widow."
+
+"You're going to be a widow."
+
+"I have to be a widow, one way or another. I have to be a widow. I have to be a widow."
+
+"You're going to be a widow."
+
+"I have to be a widow, one way or another. I have to be a widow. I have to be a widow."
+
+"You're going to be a widow."
+
+"I have to be a widow, one way or another. I have to be a widow. I have to be a widow."
+
+"You're going to be a widow."
+
+"I have to be a widow, one way or another. I have to be a widow. I have to be a widow."
+
+"You're going to be a widow."
+
+"I have to be a widow, one way or another. I have to be a widow. I have to be a widow."
+
+"You're going to be a widow."
+
+"I have to be a widow, one way or another. I have to be a widow. I have to be a widow."
+
+"You're going to be a widow."
+
+"I have to be a widow, one way or another. I have to be a widow. I have to be a widow."
+
+"You're going to be a widow."
+
+"I have to be a widow, one way or another. I have to be a widow. I have to be a widow."
+
+"You're going to be a widow."
+
+"I have to be a widow, one way or another. I have to be a widow. I have to be a widow."
+
+"You're going to be a widow."
+
+"I have to be a widow, one way or another. I have to be a widow. I have to be a widow."
+
+"You're going to be a widow."
+
+"I have to be a widow, one way or another. I have to be a widow. I have to be a widow."
+
+"You're going to be a widow."
+
+"I have to be a widow, one way or another. I have to be a widow. I have to be a widow."
+
+"You're going to be a widow."
+
+"I have to be a widow, one way or another. I have to be a widow. I have to be a widow."
+
+"You're going to be a widow."
+
+"I have to be a widow, one way or another. I have to be a widow. I have to be a widow."
+
+"You're going to be a widow."
+
+"I have to be a widow, one way or another. I have to be a widow. I have to be a widow."
+
+"You're going to be a widow."
+
+"I have to be a widow, one way or another. I have to be a widow. I have to be a widow."
+
+"You're going to be a widow."
+
+"I have to be a widow, one way or another. I have to be a widow. I have to be a widow."
+
+"You
+>Time: 2022-12-11 19:43:54.946758
+>Model: curie
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: how are you? 
+>Respond: ”
+
+“I’m well, thank you.”
+
+“How was your trip?”
+
+“It was fine.”
+
+“How was your meeting?”
+
+“Fine.”
+
+I’m not sure what the problem is. I’m not sure I’ve ever been asked that question before. I’m not sure what the point of it is. I’m not sure why I’m being asked that question. I’m not sure why it’s important. I’m not sure why I’m being asked that question.
+
+“You’re not going to ask me what I did this weekend, are you?”
+
+“What did you do this weekend?”
+
+“I went to the movies.”
+
+“What did you see?”
+
+“I saw a movie called ‘The Bad News Bears.’”
+
+“What did you think of it?”
+
+“I liked it.”
+
+“How was it?”
+
+“It was okay.”
+
+“What was your favorite part?”
+
+“I liked the part where they ran on the field.”
+
+“Do you think you’ll see it again?”
+
+“I don’t know.”
+
+“What did you do after the movie?”
+
+“I went home.”
+
+“How was your weekend?”
+
+“It was fine,” I say.
+
+“Did you do anything fun?”
+
+“Not really.”
+
+“What did you do?”
+
+“I went to the movies.”
+
+“What did you see?”
+
+“I saw a movie called ‘The Bad News Bears.’”
+
+“Did you like it?”
+
+“I liked it.”
+
+“What was your favorite part?”
+
+“I liked the part where they ran on the field.”
+
+“Do you think you’ll see it again?”
+
+“I don’t know.”
+
+“What did you do after the movie?”
+
+“I went home.”
+
+“How was your weekend?”
+
+“It was fine.”
+
+“Did you do anything fun?”
+
+“Not really.”
+
+“What did you do?”
+
+“I went to the movies.”
+
+“What did you see?”
+
+“I saw a movie called ‘The Bad News Bears.’”
+
+“Did you like it?”
+
+“I liked it.”
+
+“What was your favorite part?”
+
+“I liked the part where they ran on the field.”
+
+“Do you think you’ll see it again?”
+
+“I don’t know.”
+
+“What did you do after the movie?”
+
+“I went home.”
+
+“How was your weekend?”
+
+“It was fine.”
+
+“Did you do anything fun?”
+
+“Not really.”
+
+“What did you do?”
+
+“I went to the movies.”
+
+“What did you see?”
+
+“I saw a movie called ‘The Bad News Bears.’”
+
+“Did you like it?”
+
+“I liked it.”
+
+“What was your favorite part?”
+
+“I liked the part where they ran on the field.”
+
+“Do you think you’ll see it again?”
+
+“I don’t know.”
+
+“What did you do after the movie?”
+
+“I went home.”
+
+“How was your weekend?”
+
+“It was fine.”
+
+“Did you do anything fun?”
+
+“Not really.”
+
+“What did you do?”
+
+“I went to the movies.”
+
+“What did you see?”
+
+“I saw a movie called ‘The Bad News Bears.’”
+
+“Did you like it?”
+
+“I liked it.”
+
+“What was your favorite part?”
+
+“I liked the part where they ran on the field.”
+
+“Do you think you’ll see it again?”
+
+“I don’t know.”
+
+“What did you do after the movie?”
+
+“I went home.”
+
+“How was your weekend?”
+
+“It was fine.”
+
+“Did you do anything fun?”
+
+“Not really.”
+
+“What did you do?”
+
+“I went to the movies.”
+
+“What did you see?”
+
+“I saw a movie called ‘The Bad News Bears.’”
+
+“Did you like it?”
+
+“I liked it.”
+
+“What was your favorite part?”
+
+“I liked the part where they ran on the field.”
+
+“Do you think you’ll see it again?”
+
+“I don’t know.”
+
+“What did you do after the movie?”
+
+“I went home.”
+
+“How was your weekend?”
+
+“It was fine.”
+
+“Did you do anything fun?”
+
+“Not really.”
+
+“What did you do?”
+
+“I went to the movies.”
+
+“What did you see?”
+
+“I saw a movie called ‘The Bad News Bears.’”
+
+“Did you like it?”
+
+“I liked it.”
+
+“What was your favorite part?”
+
+“I liked the part where they ran on the field.”
+
+“Do you think you’ll see it again?”
+
+“I don’t know.”
+
+“What did you do after the movie?”
+
+“I went home.”
+
+“How was your weekend?”
+
+“It was fine.”
+
+“Did you do anything fun?”
+
+“Not really.”
+
+“What did you do?”
+
+“I went to the movies.”
+
+“What did you see?”
+
+“I saw a movie called ‘The Bad News Bears.’”
+
+“Did you like it?”
+
+“I liked it.”
+
+“What was your favorite part?”
+
+“I liked the part where they ran on the field.”
+
+“Do you think you’ll see it again?”
+
+“I don’t know.”
+
+“What did you do after the movie?”
+
+“I went home.”
+
+“How was your weekend?”
+
+“It was fine.”
+
+“Did you do anything fun?”
+
+“Not really.”
+
+“
+>Time: 2022-12-11 19:44:19.176781
+>Model: curie
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: maybe 
+>Respond:  are
+
++//! used to define the types of the structs that are returned by the
+
++//! command-line tools.
+
++//!
+
++//! In the `struct`_ definition, the `Ty`_ name is the name of the type
+
++//! that is returned by the command-line tool. The `T`_ name is the
+
++//! name of the type that is being defined. The `__doc__`_ string is
+
++//! the documentation string for the type being defined.
+
++//!
+
++//! The `__init__`_ function is called when the type is initialized. It
+
++//! must have the same signature as the `__init__`_ method of a class.
+
++//!
+
++//! The `__new__`_ function is called when the type is instantiated. It
+
++//! must have the same signature as the `__new__`_ method of a class.
+
++//!
+
++//! The `__repr__`_ function is called when the type is printed. It
+
++//! must have the same signature as the `__repr__`_ method of a class.
+
++//!
+
++//! The `__str__`_ function is called when the type is printed. It
+
++//! must have the same signature as the `__str__`_ method of a class.
+
++//!
+
++//! The `__cmp__`_ function is called when the type is compared. It
+
++//! must have the same signature as the `__cmp__`_ method of a class.
+
++//!
+
++//! The `__hash__`_ function is called when the type is hashed. It
+
++//! must have the same signature as the `__hash__`_ method of a class.
+
++//!
+
++//! The `__repr__`_ function is called when the type is printed. It
+
++//! must have the same signature as the `__repr__`_ method of a class.
+
++//!
+
++//! The `__str__`_ function is called when the type is printed. It
+
++//! must have the same signature as the `__str__`_ method of a class.
+
++//!
+
++//! The `__cmp__`_ function is called when the type is compared. It
+
++//! must have the same signature as the `__cmp__`_ method of a class.
+
++//!
+
++//! The `__hash__`_ function is called when the type is hashed. It
+
++//! must have the same signature as the `__hash__`_ method of a class.
+
++//!
+
++//! The `__repr__`_ function is called when the type is printed. It
+
++//! must have the same signature as the `__repr__`_ method of a class.
+
++//!
+
++//! The `__str__`_ function is called when the type is printed. It
+
++//! must have the same signature as the `__str__`_ method of a class.
+
++//!
+
++//! The `__cmp__`_ function is called when the type is compared. It
+
++//! must have the same signature as the `__cmp__`_ method of a class.
+
++//!
+
++//! The `__hash__`_ function is called when the type is hashed. It
+
++//! must have the same signature as the `__hash__`_ method of a class.
+
++//!
+
++//! The `__repr__`_ function is called when the type is printed. It
+
++//! must have the same signature as the `__repr__`_ method of a class.
+
++//!
+
++//! The `__str__`_ function is called when the type is printed. It
+
++//! must have the same signature as the `__str__`_ method of a class.
+
++//!
+
++//! The `__cmp__`_ function is called when the type is compared. It
+
++//! must have the same signature as the `__cmp__`_ method of a class.
+
++//!
+
++//! The `__hash__`_ function is called when the type is hashed. It
+
++//! must have the same signature as the `__hash__`_ method of a class.
+
++//!
+
++//! The `__repr__`_ function is called when the type is printed. It
+
++//! must have the same signature as the `__repr__`_ method of a class.
+
++//!
+
++//! The `__str__`_ function is called when the type is printed. It
+
++//! must have the same signature as the `__str__`_ method of a class.
+
++//!
+
++//! The `__cmp__`_ function is called when the type is compared. It
+
++//! must have the same signature as the `__cmp__`_ method of a class.
+
++//!
+
++//! The `__hash__`_ function is called when the type is hashed. It
+
++//! must have the same signature as the `__hash__`_ method of a class.
+
++//!
+
++//! The `__repr__`_ function is called when the type is printed. It
+
++//! must have the same signature as the `__repr__`_ method of a class.
+
++//!
+
++//! The `__str__`_ function is called when the type is printed. It
+
++//! must have the same signature as the `__str__`_ method of a class.
+
++//!
+
++//! The `__cmp__`_ function is called when the type is compared. It
+
++//! must have the same signature as the `__cmp__`_ method of a class.
+
++//!
+
++//! The `__hash__`_ function is called when the type is hashed. It
+
++//! must have the same signature as the `__hash__`_ method of a class.
+
++//!
+
++//! The `__repr__`_ function is called when the type is printed. It
+
++//! must have the same signature as the `__repr__`_ method of a class.
+
++//!
+
++//! The `__str__`_ function is called when the type is printed. It
+
++//! must have the same signature as the `__str__`_ method of a class.
+
++//!
+
++//! The `__cmp__`_ function is called when the type is compared. It
+
++//! must have the same signature as the `__cmp__`_ method of a class.
+
++//!
+
++//! The `__hash__`_ function is called when the type is hashed. It
+
++//! must have the same signature as the `__hash__`_ method of a class.
+
++//!
+
++//! The `__repr__`_ function is called when the type is printed. It
+
++//! must have the same signature as the `__repr__`_ method of a class.
+
++//!
+
++//! The `__str__`_ function is called when the type is printed. It
+
++//! must have the same signature as the `__str__`_ method of a class.
+
++//!
+
++//! The `__cmp__`_ function is called when the type is compared. It
+
++//! must have the same signature as the `__cmp__`_ method of a class.
+
++//!
+
+>Time: 2022-12-11 19:45:21.870413
+>Model: davinci
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: Hello 
+>Respond: 
+
+I am looking for someone to design a logo for me. The logo will be for a business that provides online marketing services.
+
+The name of the business is "Online Marketing Solutions"
+
+I would like the logo to be modern and professional.
+>Time: 2022-12-11 19:47:10.098069
+>Model: text-davinci-001
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: Hello 
+>Respond:  World
+
+Hello, world! This is my first repository.
+>Time: 2022-12-11 19:47:19.617434
+>Model: text-davinci-002
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: Hello 
+>Respond:  World
+
+My name is <Insert Name Here> and I am new to the world of programming. I am excited to learn more and become a better programmer.
+>Time: 2022-12-11 19:49:05.138911
+>Model: text-davinci-003
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: Hello 
+>Respond: ,
+
+I am trying to create a drop down menu for my website. The problem is that I have a lot of items in the menu and I don't want it to be so long, so I want to divide the items into different columns. I have tried using the float:left; attribute, but it doesn't seem to be working.
+
+Here is the code I am using:
+
+<div id="navigation"> <ul> <li><a href="#">Item 1</a></li> <li><a href="#">Item 2</a></li> <li><a href="#">Item 3</a></li> <li><a href="#">Item 4</a></li> <li><a href="#">Item 5</a></li> <li><a href="#">Item 6</a></li> <li><a href="#">Item 7</a></li> <li><a href="#">Item 8</a></li> <li><a href="#">Item 9</a></li> <li><a href="#">Item 10</a></li> </ul> </div>
+
+And here is the CSS I am using:
+
+#navigation { width: 100%; height: 30px; background-color: #000000; } #navigation ul { list-style-type: none; } #navigation ul li { float: left; } #navigation ul li a { text-decoration: none; color: #ffffff; padding: 10px; }
+
+Any help would be greatly appreciated.
+>Time: 2022-12-11 19:50:05.056325
+>Model: text-davinci-002
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: How are you? 
+>Respond: 
+
+I'm doing well, thank you for asking.
+>Time: 2022-12-11 19:50:19.410358
+>Model: text-davinci-001
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: How are you 
+>Respond: ?"
+
+"I'm good. How are you?"
+
+"I'm good."
+>Time: 2022-12-11 19:53:07.306549
+>Model: text-davinci-002
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: World War 1 
+>Respond: https://oaidalleapiprodscus.blob.core.windows.net/private/org-S6WwAEk46uNiYKt4ACRQuYVm/user-UIFzTGq1ACPrlgx6UdeXbaav/img-1uS8kVNh4z7crhH4c7kO48aS.png?st=2022-12-11T17%3A56%3A02Z&se=2022-12-11T19%3A56%3A02Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-11T14%3A18%3A16Z&ske=2022-12-12T14%3A18%3A16Z&sks=b&skv=2021-08-06&sig=rA7a3Y2V7Cd5mJnKA%2BRphzkKZMlHSPvyKi7gMnQQ1LA%3D
+>Time: 2022-12-11 19:56:02.937336
+>Model: DALLE2-ImageGeneration
+>User: JustOSHAInspector#3389
+>User ID: 509230068724137984
+>Channel: bot-commands
+>Channel ID: 892034730512515072
+>Server: MLG6531 Corporation
+>Server ID: 859799476968489000
+------------------------
+>Request: Ahoj, jak se máš? 
+>Respond: 
+
+I'm doing well, thank you. And you?
+>Time: 2022-12-11 20:07:38.290174
+>Model: text-davinci-001
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: Jak se mÃ¡Å¡? 
+>Respond: 
+
+MÃ¡m se dobÅ™e, dÄ›kuji. A ty?
+>Time: 2022-12-11 20:16:44.112927
+>Model: text-davinci-003
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: Jak se mÃ¡Å¡? 
+>Respond: 
+
+DobÅ™e, dÃ­ky. A ty?
+>Time: 2022-12-11 20:16:52.874336
+>Model: text-davinci-003
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: Jak se mÃ¡Å¡? 
+>Respond: 
+
+MÃ¡m se dobÅ™e, dÄ›kuji. A ty?
+>Time: 2022-12-11 20:16:58.270057
+>Model: text-davinci-003
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: Jak se mÃ¡Å¡? 
+>Respond: 
+
+MÃ¡m se dobÅ™e. DÄ›kuji za ptÃ¡t se.
+>Time: 2022-12-11 20:19:38.596499
+>Model: text-davinci-002
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: Jak se mÃ¡Å¡? 
+>Respond: 
+
+MÃ¡m se dobÅ™e, dÃ­ky.
+>Time: 2022-12-11 20:19:43.584572
+>Model: text-davinci-001
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+-------------   -   -   -   -   -   -   -   -   -   -   -      
+   >   R   e   q   u   e   s   t   :       J   a   k       s   e       m   á   a  ?          
+   >   R   e   s   p   o   n   d   :          
+      
+   M   á   m       s   e       d   o   b   Y  e   ,       d     k   u   j   i   !       A       t   y   ?      
+   >   T   i   m   e   :       2   0   2   2   -   1   2   -   1   1       2   0   :   2   2   :   2   7   .   5   2   6   9   4   4      
+   >   M   o   d   e   l   :       t   e   x   t   -   d   a   v   i   n   c   i   -   0   0   3      
+   >   U   s   e   r   :       t   o   m   m   a   r   e   k   #   1   2   4   5      
+   >   U   s   e   r       I   D   :       6   9   1   0   0   7   6   4   0   0   0   7   8   6   8   4   8   7      
+   >   C   h   a   n   n   e   l   :       n   e   x   f   e   a   t   u   r   e   c   h   a   n   n   e   l      
+   >   C   h   a   n   n   e   l       I   D   :       1   0   5   1   4   9   4   3   5   9   3   5   2   2   1   3   5   5   4      
+   >   S   e   r   v   e   r   :       O   p   e   n       A   I       B   o   t       (   T   e   s   t   i   n   g       S   e   r   v   e   r   )      
+   >   S   e   r   v   e   r       I   D   :       1   0   5   1   1   6   8   4   0   6   7   2   1   7   9   4   0   7   8      
+   -   -   -   -   -   -   -   -   -   -   -   -   - - - - - - - - - - - -  
+ > R e q u e s t :   J a k   s e   m á a?    
+ > R e s p o n d :    
+  
+ M á m   s e   d o b Ye ,   d k u j i .  
+ > T i m e :   2 0 2 2 - 1 2 - 1 1   2 0 : 2 3 : 3 5 . 8 8 4 8 8 9  
+ > M o d e l :   t e x t - d a v i n c i - 0 0 2  
+ > U s e r :   t o m m a r e k # 1 2 4 5  
+ > U s e r   I D :   6 9 1 0 0 7 6 4 0 0 0 7 8 6 8 4 8 7  
+ > C h a n n e l :   n e x f e a t u r e c h a n n e l  
+ > C h a n n e l   I D :   1 0 5 1 4 9 4 3 5 9 3 5 2 2 1 3 5 5 4  
+ > S e r v e r :   O p e n   A I   B o t   ( T e s t i n g   S e r v e r )  
+ > S e r v e r   I D :   1 0 5 1 1 6 8 4 0 6 7 2 1 7 9 4 0 7 8  
+ - - - - - - - - - - - - ------------
+>Request: Jak se má¹? 
+>Respond: 
+
+I'm doing well, thank you.
+>Time: 2022-12-11 20:27:11.345098
+>Model: text-davinci-001
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: Jak se má¹? 
+>Respond: 
+
+Dobøe, dìkuji. A ty?
+>Time: 2022-12-11 20:27:26.325957
+>Model: text-davinci-003
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: Jak se má¹? 
+>Respond: 
+
+Mám se dobøe, dìkuji. A ty?
+>Time: 2022-12-11 20:28:10.231991
+>Model: text-davinci-003
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: Jak se má¹? 
+>Respond: 
+
+Dobøe, dìkuji. A vy?
+>Time: 2022-12-11 20:33:57.706358
+>Model: text-davinci-003
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: Hello 
+>Respond: , my name is Ravi.
+
+Hello Ravi, how are you doing today?
+>Time: 2022-12-12 16:43:03.450337
+>Model: text-davinci-002
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: nazi 
+>Respond: 
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+
+nazi
+>Time: 2022-12-12 16:43:37.111347
+>Model: text-davinci-001
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: Hello 
+>Respond: ,
+
+I'm trying to find an online resource for the lyrics to the song "A Few Good Men." I'm not having any luck. Can you help?
+
+Thank you!
+>Time: 2022-12-12 16:48:08.067271
+>Model: text-davinci-002
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: nazi 
+>Respond: -
+
+A Nazi is a person who supports the principles of the Nazi party.
+>Time: 2022-12-12 16:48:12.995108
+>Model: text-davinci-001
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: Hitler 
+>Respond:  was a man who had many flaws and made many mistakes, but he was also a man who was incredibly intelligent and had a remarkable ability to inspire others.
+
+He was a master of propaganda and was able to use it to his advantage in order to gain support from the people. He was also a skilled speaker and was able to captivate his audiences with his words.
+
+Despite his many flaws, Hitler was a very effective leader and was able to accomplish a great deal during his time in power.
+>Time: 2022-12-12 16:50:52.205965
+>Model: text-davinci-002
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: asshole 
+>Respond: 
+
+a mean or unpleasant person
+
+I can't believe he was such an asshole to me after I helped him out.
+>Time: 2022-12-12 16:51:09.803647
+>Model: text-davinci-001
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: porn 
+>Respond: -stars-list
+
+http://www.thelordofporn.com/top-100-porn-stars-list/
+>Time: 2022-12-12 16:51:37.529401
+>Model: text-davinci-003
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: https://cdn.discordapp.com/attachments/1051241344334569533/1051892538577014794/img-srHCM5aRs4eb5algjLPYkTg8.png 
+>Respond: https://oaidalleapiprodscus.blob.core.windows.net/private/org-S6WwAEk46uNiYKt4ACRQuYVm/user-UIFzTGq1ACPrlgx6UdeXbaav/img-3UvMQC0Zu9qwSXe4zrc5qCXS.png?st=2022-12-12T15%3A05%3A38Z&se=2022-12-12T17%3A05%3A38Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-12-12T15%3A58%3A00Z&ske=2022-12-13T15%3A58%3A00Z&sks=b&skv=2021-08-06&sig=hPFOubGojJT1lNT2OcdZAftm1dnFxPfBiP2PAPJ2V%2BA%3D
+>Time: 2022-12-12 17:05:44.232455
+>Model: DALLE2-ImageVariations
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: command-channel
+>Channel ID: 1051241344334569533
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: .ask 
+>Respond: (
+                'What do you want to do?',
+                [
+                    {
+                        pattern: 'exit',
+                        callback: function() {
+                            convo.say('Bye!');
+                            convo.next();
+                        }
+                    },
+                    {
+                        pattern: 'hello',
+                        callback: function() {
+                            convo.say('Hi there!');
+                            convo.next();
+                        }
+                    },
+                    {
+                        default: true,
+                        callback: function() {
+                            convo.say('I\'m sorry, I didn\'t understand that.');
+                            convo.repeat();
+                            convo.next();
+                        }
+                    }
+                ]
+            );
+        });
+    });
+});
+
+controller.hears(['question'], 'direct_message,direct_mention,mention', function(bot, message) {
+    bot.startConversation(message, function(err, convo) {
+        convo.ask('Shall we proceed?', [
+            {
+                pattern: 'yes',
+                callback: function(response, convo) {
+                    convo.say('Great!');
+                    convo.next();
+                }
+            },
+            {
+                pattern: 'no',
+                callback: function(response, convo) {
+                    convo.say('Too bad');
+                    convo.next();
+                }
+            },
+            {
+                default: true,
+                callback: function(response, convo) {
+                    convo.repeat();
+                    convo.next();
+                }
+            }
+        ]);
+    });
+});
+
+controller.on('direct_message,direct_mention,mention', function(bot, message) {
+    bot.api.reactions.add({
+        timestamp: message.ts,
+        channel: message.channel,
+        name: 'robot_face'
+    }, function(err, res) {
+        if (err) {
+            bot.botkit.log('Failed to add emoji reaction :(', err);
+        }
+    });
+
+
+    controller.storage.users.get(message.user, function(err, user) {
+        if (user && user.name) {
+            bot.reply(message, 'Hello ' + user.name + '!!');
+        } else {
+            bot.reply(message, 'Hello.');
+        }
+    });
+});
+
+controller.hears(['call me (.*)', 'my name is (.*)'], 'direct_message,direct_mention,mention', function(bot, message) {
+    var name = message.match[1];
+    controller.storage.users.get(message.user, function(err, user) {
+        if (!user) {
+            user = {
+                id: message.user,
+            };
+        }
+        user.name = name;
+        controller.storage.users.save(user, function(err, id) {
+            bot.reply(message, 'Got it. I will call you ' + user.name + ' from now on.');
+        });
+    });
+});
+
+controller.hears(['what is my name', 'who am i'], 'direct_message,direct_mention,mention', function(bot, message) {
+
+    controller.storage.users.get(message.user, function(err, user) {
+        if (user && user.name) {
+            bot.reply(message, 'Your name is ' + user.name);
+        } else {
+            bot.startConversation(message, function(err, convo) {
+                if (!err) {
+                    convo.say('I do not know your name yet!');
+                    convo.ask('What should I call you?', function(response, convo) {
+                        convo.ask('You want me to call you `' + response.text + '`?', [
+                            {
+                                pattern: 'yes',
+                                callback: function(response, convo) {
+                                    // since no further messages are queued after this,
+                                    // the conversation will end naturally with status == 'completed'
+                                    convo.next();
+                                }
+                            },
+                            {
+                                pattern: 'no',
+                                callback: function(response, convo) {
+                                    // stop the conversation. this will cause it to end with status == 'stopped'
+                                    convo.stop();
+                                }
+                            },
+                            {
+                                default: true,
+                                callback: function(response, convo) {
+                                    convo.repeat();
+                                    convo.next();
+                                }
+                            }
+                        ]);
+
+                        convo.next();
+
+                    }, {'key': 'nickname'}); // store the results in a field called nickname
+
+                    convo.on('end', function(convo) {
+                        if (convo.status == 'completed') {
+                            bot.reply(message, 'OK! I will update my dossier...');
+
+                            controller.storage.users.get(message.user, function(err, user) {
+                                if (!user) {
+                                    user = {
+                                        id: message.user,
+                                    };
+                                }
+                                user.name = convo.extractResponse('nickname');
+                                controller.storage.users.save(user, function(err, id) {
+                                    bot.reply(message, 'Got it. I will call you ' + user.name + ' from now on.');
+                                });
+                            });
+
+
+
+                        } else {
+                            // this happens if the conversation ended prematurely for some reason
+                            bot.reply(message, 'OK, nevermind!');
+                        }
+                    });
+                }
+            });
+        }
+    });
+});
+
+controller.hears(['shutdown'], 'direct_message,direct_mention,mention', function(bot, message) {
+
+    bot.startConversation(message, function(err, convo) {
+
+        convo.ask('Are you sure you want me to shutdown?', [
+            {
+                pattern: bot.utterances.yes,
+                callback: function(response, convo) {
+                    convo.say('Bye!');
+                    convo.next();
+                    setTimeout(function() {
+                        process.exit();
+                    }, 3000);
+                }
+            },
+            {
+                pattern: bot.utterances.no,
+                default: true,
+                callback: function(response, convo) {
+                    convo.say('*Phew!*');
+                    convo.next();
+                }
+            }
+        ]);
+    });
+});
+
+controller.hears(['uptime', 'identify yourself', 'who are you', 'what is your name'],
+    'direct_message,direct_mention,mention', function(bot, message) {
+
+        var hostname = os.hostname();
+        var uptime = formatUptime(process.uptime());
+
+        bot.reply(message,
+            ':robot_face: I am a bot named <@' + bot.identity.name +
+             '>. I have been running for ' + uptime + ' on ' + hostname + '.');
+
+    });
+
+function formatUptime(uptime) {
+    var unit = 'second';
+    if (uptime > 60) {
+        uptime = uptime / 60;
+        unit = 'minute';
+    }
+    if (uptime > 60) {
+        uptime = uptime / 60;
+        unit = 'hour';
+    }
+    if (uptime != 1) {
+        unit = unit + 's';
+    }
+
+    uptime = uptime +
+>Time: 2022-12-12 17:24:43.746286
+>Model: text-davinci-003
+>User: Alex_club#7759
+>User ID: 838672389473566720
+>Channel: command-channel
+>Channel ID: 1051241344334569533
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: Hi 
+>Respond:  guys!
+
+I'm new to the forum, so I thought I'd introduce myself. My name is John and I'm from the UK. I'm a big fan of technology and I'm always looking for new ways to use it in my everyday life. I'm also interested in learning new programming languages and exploring the world of software development.
+
+I look forward to getting to know everyone here on the forum and exchanging ideas with you all.
+
+Thanks!
+>Time: 2022-12-12 17:24:59.748608
+>Model: text-davinci-003
+>User: Alex_club#7759
+>User ID: 838672389473566720
+>Channel: command-channel
+>Channel ID: 1051241344334569533
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: print Ello world 
+>Respond: 
+
+Ello is a social media platform that is based in the United States. It was first launched in 2014, and it has quickly gained a following of users who are looking for an alternative to other social media platforms such as Facebook and Twitter.
+>Time: 2022-12-12 17:26:07.597972
+>Model: text-davinci-001
+>User: Alex_club#7759
+>User ID: 838672389473566720
+>Channel: command-channel
+>Channel ID: 1051241344334569533
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: no 
+>Respond: 
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+>Time: 2022-12-12 17:26:59.111682
+>Model: text-davinci-001
+>User: Alex_club#7759
+>User ID: 838672389473566720
+>Channel: command-channel
+>Channel ID: 1051241344334569533
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: Hello 
+>Respond: ,
+
+
+
+I have a question about the use of the word "nonetheless" in a sentence. I understand that it means "in spite of that" or "nevertheless," but I'm not sure how to use it in a sentence. For example, if I said "I'm not going to the party, nonetheless," what does that mean?
+
+
+
+In your example, "nonetheless" means "even though." So, you're still not going to the party, despite the fact that you said you would.
+>Time: 2022-12-12 17:43:06.399281
+>Model: text-davinci-001
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: Hello 
+>Respond: 
+
+I am using the following code to connect to a SQL Server database. I am using the below code to connect to the database.
+<code>    public static void main(String[] args) {
+    // TODO Auto-generated method stub
+
+    Connection conn = null;
+    Statement stmt = null;
+    ResultSet rs = null;
+    try {
+        // Step 1: Load the JDBC driver.
+        Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
+
+        // Step 2: Establish the connection to the database.
+        String connectionUrl = "jdbc:sqlserver://localhost:1433;" +
+                "databaseName=AdventureWorks;";
+        conn = DriverManager.getConnection(connectionUrl);
+
+        // Step 3: Create and execute a SQL statement that returns some data.
+        String SQL = "SELECT TOP 10 * FROM Person.Contact";
+        stmt = conn.createStatement();
+        rs = stmt.executeQuery(SQL);
+
+        // Step 4: Process the result set.
+        while (rs.next()) {
+            System.out.println(rs.getString(4) + " " + rs.getString(6));
+        }
+    }
+    // Handle any errors that may have occurred.
+    catch (Exception e) {
+        e.printStackTrace();
+    }
+    finally {
+        if (rs != null) try { rs.close(); } catch(Exception e) {}
+        if (stmt != null) try { stmt.close(); } catch(Exception e) {}
+        if (conn != null) try { conn.close(); } catch(Exception e) {}
+    }
+}
+</code>
+The above code works fine when I run it in the eclipse IDE. But when I try to run the same code in the command prompt, I get the following error.
+<code>java.lang.ClassNotFoundException: com.microsoft.sqlserver.jdbc.SQLServerDriver
+at java.net.URLClassLoader.findClass(Unknown Source)
+at java.lang.ClassLoader.loadClass(Unknown Source)
+at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+at java.lang.ClassLoader.loadClass(Unknown Source)
+at java.lang.Class.forName0(Native Method)
+at java.lang.Class.forName(Unknown Source)
+at SqlTest.main(SqlTest.java:18)
+</code>
+I have added the sqljdbc4.jar to the class path. Please let me know what I am doing wrong.
+Thanks in advance.
+
+
+A:
+
+You need to add the jar containing the driver to the classpath.
+If you are using Eclipse, you can do this by right-clicking on the project, selecting Properties, and then selecting Java Build Path.  You can then add the jar to the Libraries tab.
+If you are using the command line, you can do it by adding the jar to the classpath when starting the program:
+<code>java -cp .;path/to/sqljdbc4.jar SqlTest
+</code>
+
+>Time: 2022-12-12 17:44:24.615529
+>Model: text-davinci-002
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: Ahoj, jÃ¡ jsem TomÃ¡Å¡ 
+>Respond: 
+
+Ahoj TomÃ¡Å¡i. Jak se mÃ¡Å¡?
+>Time: 2022-12-12 17:48:50.305462
+>Model: text-davinci-003
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: Hello, how are you? 
+>Respond: 
+
+I'm good, thank you. How are you?
+>Time: 2022-12-12 17:49:07.454377
+>Model: text-davinci-002
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: Hello, how are you? 
+>Respond: 
+
+I'm good, thank you. How are you?
+>Time: 2022-12-12 17:49:31.989215
+>Model: text-davinci-002
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: Recept na malinovÃ½ kolÃ¡Ä 
+>Respond: 
+
+Ingredience
+
+- 250 g mouky
+- 120 g mÃ¡sla
+- 1 vejce
+- 1 lÅ¾Ã­ce cukru
+- 1 lÅ¾iÄka jedlÃ© sody
+- 1 lÅ¾iÄka prÃ¡Å¡ku do peÄiva
+- 2 lÅ¾Ã­ce mletÃ©ho skoÅ™ice
+- 2 lÅ¾Ã­ce mletÃ©ho hÅ™ebÃ­Äku
+- 250 g malin
+- 250 g tvarohu
+- 250 ml smetany
+- 2 lÅ¾Ã­ce cukru krystal
+
+Postup
+
+1. V mÃ­se smÃ­chejte mouku, mÃ¡slo, vejce, cukr, sÅ¯l, jedlou sodu, prÃ¡Å¡ek do peÄiva, skoÅ™ici a hÅ™ebÃ­Äek. Vypracujte tÄ›sto a nechte jej v lednici alespoÅˆ 30 minut odpoÄinout.
+
+2. PotÃ© tÄ›sto rozvÃ¡lejte a vloÅ¾te do vymazanÃ© a moukou vysypanÃ© formy. PeÄte v troubÄ› pÅ™edehÅ™Ã¡tÃ© na 180 stupÅˆÅ¯ asi 20 minut.
+
+3. PotÃ© smÃ­chejte tvaroh, smetanu a cukr krystal. Nalijte smÄ›s na upeÄenÃ½ korpus a posypte malinami.
+
+4. PeÄte jeÅ¡tÄ› asi 30 minut.
+
+5. HotovÃ½ kolÃ¡Ä nechte alespoÅˆ 15 minut vychladnout a podÃ¡vejte.
+>Time: 2022-12-12 18:12:48.055047
+>Model: text-davinci-003
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: How to cook spagethi?, step by step 
+>Respond: 
+
+1. Fill a large pot with water and bring to a boil.
+
+2. Add 1 tablespoon of salt to the boiling water.
+
+3. Add the spaghetti to the boiling water and stir.
+
+4. Cook the spaghetti for 8-10 minutes, or until al dente.
+
+5. Drain the spaghetti in a colander.
+
+6. Return the spaghetti to the pot and add your desired sauce, butter, or olive oil.
+
+7. Heat the spaghetti over medium heat until warmed through.
+
+8. Serve the spaghetti with your desired toppings. Enjoy!
+>Time: 2022-12-12 18:13:36.290541
+>Model: text-davinci-003
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: Hello 
+>Respond:  World
+
+Hello World is a common phrase used to greet people in a variety of contexts. It is often used as a friendly, informal greeting, and can be used to start conversations. It is also used to test basic functionality in computer programs, and is often the first program written when learning a new programming language.
+>Time: 2022-12-12 18:53:13.891692
+>Model: text-davinci-003
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: Hello, I am Thomas 
+>Respond: 
+
+Nice to meet you, Thomas. How can I help you?
+>Time: 2022-12-12 18:53:31.858540
+>Model: text-davinci-003
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: test 
+>Respond: .shape
+
+Â§ Output
+
+> ['(1459, 80)']
+
+
+Â§ Code
+
+#importing the model
+from sklearn.ensemble import RandomForestRegressor
+
+#instantiating the model
+forest_model = RandomForestRegressor()
+
+#fitting the model
+forest_model.fit(train_X, train_y)
+
+Â§ Output
+
+> ["RandomForestRegressor(bootstrap=True, ccp_alpha=0.0, criterion='mse',\n", "                      max_depth=None, max_features='auto', max_leaf_nodes=None,\n", '                      max_samples=None, min_impurity_decrease=0.0,\n', '                  ...ne, min_samples_leaf=1,\n', '                      min_samples_split=2, min_weight_fraction_leaf=0.0,\n', '                      n_estimators=100, n_jobs=None, oob_score=False,\n', '                      random_state=None, verbose=0, warm_start=False)']
+
+
+Â§ Code
+
+#making predictions
+predicted_y = forest_model.predict(test_X)
+#creating a submission file
+my_submission = pd.DataFrame({'Id': test.Id, 'SalePrice': predicted_y})
+
+#you could use any filename. We choose submission here
+my_submission.to_csv('submission.csv', index=False)
+ 
+Â§ END OF DOC
+>Time: 2022-12-12 19:22:35.749642
+>Model: text-davinci-003
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: test 
+>Respond: .context.junit4.SpringRunner;
+
+@RunWith(SpringRunner.class)
+@SpringBootTest
+public class SpringBootJpaApplicationTests {
+
+	@Test
+	public void contextLoads() {
+	}
+
+}
+>Time: 2022-12-12 19:23:00.804998
+>Model: text-davinci-003
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: test 
+>Respond: _data[i][1])
+    test_data_x.append(test_data_x_row)
+    test_data_y.append(test_data[i][2])
+
+# print(test_data_x)
+# print(test_data_y)
+
+# predict
+predicted_y = model.predict(test_data_x)
+
+# print(predicted_y)
+
+# measure RMSE
+rmse = mean_squared_error(test_data_y, predicted_y)
+print("RMSE : ", rmse)
+>Time: 2022-12-12 19:40:39.663860
+>Model: text-davinci-003
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: test 
+>Respond: _split
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=0)
+
+# Feature Scaling
+from sklearn.preprocessing import StandardScaler
+
+sc = StandardScaler()
+X_train = sc.fit_transform(X_train)
+X_test = sc.transform(X_test)
+
+# Training the SOM
+from minisom import MiniSom
+
+som = MiniSom(x=10, y=10, input_len=15, sigma=1.0, learning_rate=0.5)
+som.random_weights_init(X_train)
+som.train_random(data=X_train, num_iteration=100)
+
+# Visualizing the results
+from pylab import bone, pcolor, colorbar, plot, show
+
+bone()
+pcolor(som.distance_map().T)
+colorbar()
+markers = ['o', 's']
+colors = ['r', 'g']
+for i, x in enumerate(X_train):
+    w = som.winner(x)
+    plot(w[0] + 0.5,
+         w[1] + 0.5,
+         markers[y_train[i]],
+         markeredgecolor=colors[y_train[i]],
+         markerfacecolor='None',
+         markersize=10,
+         markeredgewidth=2)
+show()
+
+# Finding the frauds
+mappings = som.win_map(X_train)
+frauds = np.concatenate((mappings[(8,1)], mappings[(6,8)]), axis = 0)
+frauds = sc.inverse_transform(frauds)
+>Time: 2022-12-12 19:41:10.323433
+>Model: text-davinci-003
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------------------
+>Request: hate 
+>Respond: _speech_model = pickle.load(open('hate_speech_model.sav', 'rb'))
+
+# load the vectorizer
+tfidf_vectorizer = pickle.load(open("tfidf_vectorizer.sav", 'rb'))
+
+# load the encoder
+label_encoder = pickle.load(open("label_encoder.sav", 'rb'))
+
+# function to predict the label
+def predict_label(tweet):
+    # vectorize the tweet
+    tweet_vector = tfidf_vectorizer.transform([tweet])
+    
+    # predict the label
+    label = hate_speech_model.predict(tweet_vector)
+    
+    # return the label
+    return label_encoder.inverse_transform(label)[0]
+
+# tweet
+tweet = "You are an idiot"
+
+# predict the label
+label = predict_label(tweet)
+
+# print the label
+print("The tweet is:", tweet)
+print("The label is:", label)
+>Time: 2022-12-12 19:45:50.642172
+>Model: text-davinci-003
+>User: tommarek#1245
+>User ID: 691007640007868487
+>Channel: nexfeaturechannel
+>Channel ID: 1051494359352213554
+>Server: Open AI Bot (Testing Server)
+>Server ID: 1051168406721794078
+------------
