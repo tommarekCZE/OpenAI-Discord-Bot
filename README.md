@@ -25,6 +25,8 @@ Warning: the inawords.txt contain pre-select inappropriate words
  ㅤAItoken = 'Your openAI Token (https://beta.openai.com/account/api-keys)'<br />
  ㅤDCtokenTest = 'optional to test BOT (If you want add features)'<br />
  ㅤOwnerID = 'Your discord id (This is needed for Maintenance commands)'<br />
+    ㅤprefix = 'Your bot prefix (.command)'<br />
+ ㅤtxtmodels = 'list of models what you want use (https://beta.openai.com/docs/api-reference/models)'
 
 # Change request setting:<br />
  ㅤThe text request is from line 143 to 148<br />
